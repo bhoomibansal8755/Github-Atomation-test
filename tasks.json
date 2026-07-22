@@ -1,0 +1,144 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "file": "index.html",
+      "task": "Add a hero section with name, tagline, and a CTA button",
+      "status": "done",
+      "committed_at": "2026-07-22 17:12:20"
+    },
+    {
+      "id": 2,
+      "file": "style.css",
+      "task": "Style the hero section with a dark background, gradient text for the name, and responsive layout",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 3,
+      "file": "script.js",
+      "task": "Add a typing animation effect on the hero tagline using vanilla JS",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 4,
+      "file": "index.html",
+      "task": "Add an About section with a short bio paragraph and a profile image placeholder",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 5,
+      "file": "style.css",
+      "task": "Style the About section: two-column layout with image on left, bio on right",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 6,
+      "file": "index.html",
+      "task": "Add a Skills section with icons or tags for HTML, CSS, JS, Python, React",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 7,
+      "file": "style.css",
+      "task": "Style the Skills section with a grid layout and hover effect on each skill tag",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 8,
+      "file": "script.js",
+      "task": "Add scroll-reveal animation: sections fade in from bottom when they enter the viewport",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 9,
+      "file": "index.html",
+      "task": "Add a Projects section with 3 project cards: title, description, tech stack, and GitHub link",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 10,
+      "file": "style.css",
+      "task": "Style the project cards with glassmorphism effect and smooth hover transform",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 11,
+      "file": "script.js",
+      "task": "Add a filter system for project cards: All / Frontend / Backend / AI buttons that show/hide cards",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 12,
+      "file": "index.html",
+      "task": "Add a Contact section with email, LinkedIn, GitHub links and a simple contact form",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 13,
+      "file": "style.css",
+      "task": "Style the contact section and form with proper spacing, input focus states, and submit button animation",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 14,
+      "file": "script.js",
+      "task": "Add form validation: check empty fields, validate email format, show inline error messages",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 15,
+      "file": "style.css",
+      "task": "Make entire portfolio fully mobile responsive: fix navbar, hero, about, skills, projects, contact for small screens",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 16,
+      "file": "index.html",
+      "task": "Add a sticky navbar with logo, nav links, and a hamburger menu for mobile",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 17,
+      "file": "script.js",
+      "task": "Make the hamburger menu functional: toggle open/close on click, close on nav link click",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 18,
+      "file": "style.css",
+      "task": "Add dark/light mode toggle styles using CSS variables and a body class switch",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 19,
+      "file": "script.js",
+      "task": "Make dark/light mode toggle functional: save preference in localStorage, apply on page load",
+      "status": "pending",
+      "committed_at": null
+    },
+    {
+      "id": 20,
+      "file": "index.html",
+      "task": "Add meta tags for SEO: title, description, og:title, og:image, twitter card",
+      "status": "pending",
+      "committed_at": null
+    }
+  ]
+}
